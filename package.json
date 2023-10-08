@@ -1,0 +1,21 @@
+{
+  "name": "super-queue",
+  "version": "1 (S1A1.231007.001)",
+  "main": "index.js",
+  "repository": "https://github.com/lolous-studio/SuperQueue.git",
+  "author": "Lolou's Studio <liam.cheneval@lolous.studio>",
+  "license": "MIT",
+  "dependencies": {
+    "audic": "^3.0.2",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "node-audiorecorder": "^3.0.0",
+    "node-microphone": "^0.1.6",
+    "node-record-lpcm16": "^1.0.1",
+    "open": "^9.1.0",
+    "play-sound": "^1.1.6",
+    "sound-play": "^1.1.0",
+    "speaker": "^0.5.4",
+    "wav": "^1.0.2"
+  }
+}
